@@ -19,5 +19,13 @@ public class EntryPoint
 	private static void startBatch()
 	{
 	   System.out.println("Starting Batch Job");
+	   doThis();
 	}
+	
+	private static void doThis()
+	{
+		System.out.println("Now doing this....");
+		System.out.println("------------------");
+	}
+
 }
