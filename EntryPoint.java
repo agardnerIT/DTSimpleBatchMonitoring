@@ -1,4 +1,4 @@
-package com.adamgardner.code;
+package co.uk.adamgardner.code;
 
 public class EntryPoint
 {
